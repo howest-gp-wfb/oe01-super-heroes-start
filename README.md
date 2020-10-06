@@ -5,3 +5,4 @@
 - [Oefening 1c](https://github.com/howest-gp-wfb/oe01-super-heroes/blob/master/opgaves/Oefening-01c.pdf)
 - [Oefening 1d](https://github.com/howest-gp-wfb/oe01-super-heroes/blob/master/opgaves/Oefening-01d.pdf)
 - [Oefening 1e](https://github.com/howest-gp-wfb/oe01-super-heroes/blob/master/opgaves/Oefening-01e.pdf)
+- [Bronbestanden](https://github.com/howest-gp-wfb/oe01-super-heroes/tree/master/bronbestanden/afbeeldingen)
